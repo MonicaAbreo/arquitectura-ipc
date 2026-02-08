@@ -11,7 +11,7 @@ Servidor (server): Un programa que escucha en un punto de comunicación conocido
 Cliente (client): Un programa que envía un mensaje al servidor, espera la respuesta.
 La comunicación entre ellos utiliza Sockets de Dominio Unix (UnixDatagram). 
 
-![Arquitectura IPC](/image/arquitectura.png "Arquitectura IPC")
+![Arquitectura IPC](IPC/image/arquitectura.png "Arquitectura IPC")
 
 ## Estructura de Archivos
 El proyecto está organizado como un workspace de Cargo:
