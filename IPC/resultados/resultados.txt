@@ -1,0 +1,11 @@
+Cliente listo. Enviando 100000 estímulos a /tmp/latency_test.sock...
+Medición completada.
+
+--- Resultados de Latencia (viaje de ida y vuelta) ---
+Pruebas realizadas: 100000
+Latencia Mínima:  7 µs
+Latencia Promedio: 10 µs
+Latencia Máxima:   96 µs
+----------------------------------------------------
+
+¡ÉXITO! La latencia promedio está muy por debajo de 1 milisegundo.
